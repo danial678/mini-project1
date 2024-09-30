@@ -18,14 +18,23 @@ danial hirzan akbary 2409116098
 13) jika iyah maka akan program akan terulang
 14) jika tidak program selesai
 
-![image](https://github.com/user-attachments/assets/d41b768a-4759-4b2b-9da9-b6a8740ccb00)
-1) anda berhasil login, total belanja anda kurang dari 250000 dan memilih program selesai.
 
-![image](https://github.com/user-attachments/assets/bffbfeeb-a5c8-46bb-8478-dcb040a046e7)
+
+1) anda berhasil login, total belanja anda kurang dari 250000 dan memilih program selesai.
+ 
+![image](https://github.com/user-attachments/assets/d41b768a-4759-4b2b-9da9-b6a8740ccb00)
+
+
 2) anda berhasil login, total belanja anda memenuhi kriteria dan memilih transaksi kembali.
 
+![image](https://github.com/user-attachments/assets/bffbfeeb-a5c8-46bb-8478-dcb040a046e7)
+
+
+3) jika username atau password anda salah.
+
 ![image](https://github.com/user-attachments/assets/63d33d20-f185-4e34-b54d-85164e6cd7c4)
-3) jika username atau password anda salah
+
+
+4) jika username dan password salah.
 
 ![image](https://github.com/user-attachments/assets/79cd64b0-a7cc-4199-ba0e-9d123fdd1f04)
-4) jika username dan password salah
